@@ -13,10 +13,6 @@
 <span><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></span>
 <span><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></span>
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 24px>
-
-<img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsydv&show_icons=true&count_private=true&theme=radical" height="176px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsydv&show_icons=true&locale=en&layout=compact&theme=radical" height="176px"/>
-
 ## Connect with Me on:
 <a href="https://www.linkedin.com/in/itsydv/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
