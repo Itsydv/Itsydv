@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/itsydv/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.leetcode.com/itdydv/" target="_blank">
+<a href="https://www.leetcode.com/itsydv/" target="_blank">
     <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-030303?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 <a href="mailto:rohityadav07009@gmail.com" target="_blank" >
